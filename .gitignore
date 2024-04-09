@@ -1,4 +1,6 @@
 # Prerequisites
+**/.vscode
+**/.vs
 *.d
 
 # Compiled Object files
@@ -6,6 +8,7 @@
 *.lo
 *.o
 *.obj
+main
 
 # Precompiled Headers
 *.gch
